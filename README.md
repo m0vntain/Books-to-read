@@ -5,6 +5,8 @@
 This repository is a simple list of all books I need to read, and all I already 
 read, to be a **better programmer** :muscle:
 
+[Reddit](https://www.reddit.com/r/learnprogramming/comments/8ukniw/_/e1g94qn/)
+
 ## :books: Books
 
 ### :hammer: Software Craftsmanship
