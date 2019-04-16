@@ -46,3 +46,10 @@ read, to be a **better programmer** :muscle:
 ### :book: Psychology
 
 * [ ]  [The Psychology of Computer Programming](https://www.amazon.com/exec/obidos/ASIN/0932633420/codihorr-20)
+
+### Others
+
+* [ ] [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/)
+* [ ] [Willpower: Rediscovering the Greatest Human Strength](https://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231/)
+* [ ] [The Shallows: What the Internet Is Doing to Our Brains](https://www.amazon.com/Shallows-What-Internet-Doing-Brains/dp/0393339750)
+* [ ] [The Distracted Mind (MIT Press): Ancient Brains in a High-Tech World (The MIT Press)](https://www.amazon.com/Distracted-Mind-MIT-Press-High-Tech/dp/0262534436/)
