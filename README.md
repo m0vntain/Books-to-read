@@ -40,6 +40,7 @@ read, to be a **better programmer** :muscle:
 ### :straight_ruler: Design patterns
 
 * [ ] [Implementation Patterns](http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091)
+* [ ] [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)
 
 
 ### :book: Psychology
