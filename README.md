@@ -14,7 +14,7 @@ read, to be a **better programmer** :muscle:
 * [x] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
 * [x] [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/dp/0137081073/ref=emc_b_5_i)
 * [x] [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/dp/0134494164/ref=emc_b_5_i)
-* [ ] [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
+* [x] [The Software Craftsman: Professionalism, Pragmatism, Pride](https://www.amazon.com/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501)
 * [ ] [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 * [ ] [Working Effectively with Legacy Code](https://www.amazon.com/dp/0131177052/ref=emc_b_5_i)
 * [ ] [The Pragmatic Programmer: From Journeyman to Master](https://pragprog.com/book/tpp/the-pragmatic-programmer)
